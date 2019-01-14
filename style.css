@@ -1,0 +1,15 @@
+
+
+body{
+    font-family: 'barlow semi Condensed',sans-serif;
+    background: url(img/background.png) no-repeat center center fixed;
+    background-size: cover;
+}
+ .user-img{
+    margin-top:-50px
+ }
+
+.user-img img{
+    height:1px;
+    width:1px ;
+    }
